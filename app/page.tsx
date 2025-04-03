@@ -22,9 +22,6 @@ export default function Home() {
         <div className="max-w-2xl">
           {/* Logo with animated dot */}
 
-          {/* Divider line */}
-          <div className="w-24 h-1 bg-teal-400 mb-8"></div>
-
           {/* Main heading */}
           <div className="mb-8">
             <h2 className="text-white text-3xl md:text-4xl font-semibold leading-tight">
